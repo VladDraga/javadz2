@@ -21,8 +21,10 @@ console.log(fullName);
 // 4
 
 const userName = "Vlad";
-const payment = 300; 
+const payment = 300;
 const modal = alert("Дякуємо, " + userName + "! До сплати " + payment + " гривень");
 console.log(alert);
+
+
 
 
